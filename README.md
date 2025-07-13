@@ -49,8 +49,8 @@ This is a responsive and customizable website template for an SEO Agency. You ca
 ## 📧 Contact
 
 For support or customization services, reach out to:  
-📩 `youremail@example.com`  
-🌐 Your Portfolio or LinkedIn
+📩 123@gmail.com`  
+🌐 https://www.linkedin.com/in/iqra-saeed-ab8699142/
 
 ## ✅ License
 
