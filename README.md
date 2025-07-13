@@ -30,7 +30,7 @@ This is a responsive and customizable website template for an SEO Agency. You ca
 ## 🛠️ How to Use
 
 1. **Download/Clone this repository**
-2. git clone https://github.com/your-username/seo-agency-template.git
+2. git clone https://iqrasaeed5638.github.io/MYFIRSTFREEHOST/
 3. 
 2. **Open in browser**
 - Simply open `index.html` in your web browser to view the homepage.
